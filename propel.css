@@ -85,14 +85,7 @@ main {padding-top:1px;
 			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			margin-left:190px;}
-
-#life_pol {height:1000px;
-			background-image: url(life_policy.jpg);
-			background-size: 70% 70%;
-			background-repeat: no-repeat;
-			margin-bottom: -300px; }
-
-			
+		
 #std {height:300px;
 			background-image: url(std.jpg);
 			background-size: 100% 100%;
@@ -101,6 +94,12 @@ main {padding-top:1px;
 
 #ltd {height:300px;
 			background-image: url(ltd.jpg);
+			background-size: 100% 100%;
+			background-repeat: no-repeat;
+			margin-left:190px;}
+
+#calc {height:300px;
+			background-image: url(calc2.jpg);
 			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			margin-left:190px;}
