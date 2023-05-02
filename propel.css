@@ -85,6 +85,13 @@ main {padding-top:1px;
 			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			margin-left:190px;}
+
+#life_pol {height:1000px;
+			background-image: url(life_policy.jpg);
+			background-size: 70% 70%;
+			background-repeat: no-repeat;
+			margin-bottom: -300px; }
+
 			
 #std {height:300px;
 			background-image: url(std.jpg);
@@ -98,6 +105,13 @@ main {padding-top:1px;
 			background-repeat: no-repeat;
 			margin-left:190px;}
 
+#idrviewer {
+    overflow: auto;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+    -webkit-overflow-scrolling: touch;
+}
 	
 universal {box-sizing:border-box;}
 
